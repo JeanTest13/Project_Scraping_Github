@@ -1,0 +1,4 @@
+selenium==3.141.0
+requests
+webdriver-manager
+pip install --upgrade selenium
